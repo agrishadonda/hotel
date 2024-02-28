@@ -1,0 +1,11 @@
+.main1{
+    display: flex;
+    margin-left: 30px;
+    padding-top: 80px;
+}
+.main1 img{
+    margin-left: 20px;
+}
+.main1 h1{
+    text-align: center;
+}
